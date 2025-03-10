@@ -40,6 +40,8 @@ soon as possible.
 
 ## Changelog
 
+**10 March, 2025: Increased list of schools to 201!**
+
 04 March, 2025: Corrected all broken programme links and updated some deadlines.
 
 16 December, 2024: Increased list of schools to 175.
@@ -84,11 +86,13 @@ currently applying to do an economics PhD.
 
 ### How do I read the table?
 
+The table is alphabetised by school name.
+
 Economics Master's + PhD funded programmes are predominantly shown (US programmes
 are virtually all Master's + PhD structured).
 
 If a programme is PhD only (i.e., requires holding a Master's degree for admission),
-I will explicitly state as such, in parentheses, next to the school name.
+I will explicitly state as such, in parentheses, under the school name.
 
 Programmes with no information stated can be assumed to provide a Master's + PhD
 structure (regardless of location). At the moment, I am following this structure
@@ -96,14 +100,17 @@ for US programmes. To be better safe than sorry, I am specifying Master's + PhD
 structure for non-US programmes.
 
 Application deadlines listed are chosen because the corresponding programmes
-consider them to be the latest possible date eligible for PhD funding.
+consider them to be the latest possible date eligible for PhD funding. **If there
+are multiply deadlines because of multiply intake dates, the table defaults by
+listing the deadline closest to the US-equivalent start date of fall semester**.
 
 **I recommend looking into the programme website in order to confirm if the PhD
 starts in the fall or spring semester since this information is not included in
 the table for conciseness sake**.
 
 I **WILL NOT** show unfunded PhD deadlines because I believe they are massive
-opportunity costs that are worth neither the time nor the effort.
+opportunity costs that are worth neither the time nor the effort. **Don't was your
+life doing these programmes**.
 
 ### Who are you?
 
@@ -118,12 +125,13 @@ You can also find my research on [my Google Scholar profile](https://scholar.goo
 
 ### Why did you make this website?
 
-Because most schools' PhD websites are awful at clearly displaying the application
-deadlines.
+Because most schools' PhD websites are bloody awful at clearly displaying the
+application deadlines. Often times, a prospective student has to search and click
+through a bunch of pages before they can find the application deadline.
 
-There also wasn't any single website that had all the deadlines, so I made this
-GitHub Page to track and display this information front and centre for myself and
-future applicants.
+Additionally, no single website existed that hosted all deadline information for
+free. As a result, I made this GitHub Page to track and display this information
+front and centre for myself at the time and for all future applicants.
 
 ### Are you going to be adding more schools?
 
