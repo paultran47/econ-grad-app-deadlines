@@ -109,8 +109,8 @@ starts in the fall or spring semester since this information is not included in
 the table for conciseness sake**.
 
 I **WILL NOT** show unfunded PhD deadlines because I believe they are massive
-opportunity costs that are worth neither the time nor the effort. **Don't was your
-life doing these programmes**.
+opportunity costs that are worth neither the time nor the effort. **Don't waste
+your life doing these programmes**.
 
 ### Who are you?
 
