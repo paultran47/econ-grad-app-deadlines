@@ -117,9 +117,10 @@ your life doing these programmes**.
 ### Who are you?
 
 I'm an economics PhD candidate at [UT Austin](https://liberalarts.utexas.edu/economics/gradstudents/plt377)
-studying applications of text analysis and natural language processing in
-macroeconomics, particularly in central bank communication and expectations
-formation. I'm also a USAPL powerlifter (519kg total club ٩( ᐛ )و). If you want
+on the 2025&ndash;26 job market. As an applied macroeconomist, I use text
+analysis and natural language processing to study how communication from
+institutions like central banks shapes economic outcomes and expectations.
+I'm also a USAPL powerlifter (519kg total club ٩( ᐛ )و). If you want
 to find out more about me and my research, please visit my [personal website](https://paulletran.com).
 You can also find my research on [my Google Scholar profile](https://scholar.google.com/citations?user=0zKxrWgAAAAJ),
 [my SSRN profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7065188),
