@@ -273,12 +273,13 @@ your life doing these programmes**.
 
 I'm an economics PhD candidate at [UT Austin](https://liberalarts.utexas.edu/economics/gradstudents/plt377)
 on the [2025&ndash;26 job market](https://liberalarts.utexas.edu/economics/ph-d-program/job-market-candidates.html).
-As an applied macroeconomist, I use text analysis and natural language
-processing to study how communication from institutions like central banks
-shapes economic outcomes and expectations. I'm also a USAPL powerlifter
-(519kg total club ٩( ᐛ )و). If you want to find out more about me and my
-research, please visit my [personal website](https://paulletran.com). You can
-also find my research on [my Google Scholar profile](https://scholar.google.com/citations?user=0zKxrWgAAAAJ),
+My fields of interest are macroeconomics and monetary economics. I use text
+analysis and natural language processing to study how communication
+from institutions like central banks shapes economic outcomes and expectations.
+I'm also a USAPL powerlifter (519kg total club). If you want to find out more
+about me and my research, please visit my
+[personal website](https://paulletran.com). You can also find my research on
+[my Google Scholar profile](https://scholar.google.com/citations?user=0zKxrWgAAAAJ),
 [my SSRN profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7065188),
 [my GitHub profile](https://github.com/paultran47), and my ORCID (0009-0000-8559-7915).
 
