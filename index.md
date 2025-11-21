@@ -6,8 +6,7 @@ layout: default
 
 Don't see a particular economics PhD programme? Please
 [submit an issue to the GitHub repo](https://github.com/paultran47/econ-grad-app-deadlines/issues)
-or [shoot me an email](mailto:pltran@utexas.edu) with the school's PhD programme
-website URL, country, and application deadline.
+with the school's PhD programme website URL, country, and application deadline.
 
 [Go down to read FAQs](#faqs)
 
@@ -302,8 +301,7 @@ on the GitHub repo page.
 
 If you don't see a particular economics PhD programme, please
 [submit an issue to the GitHub repo](https://github.com/paultran47/econ-grad-app-deadlines/issues)
-or [shoot me an email](mailto:pltran@utexas.edu) with the school's PhD programme
-website URL, country, and application deadline.
+with the school's PhD programme website URL, country, and application deadline.
 
 ### Will you be adding Master's only programmes?
 
