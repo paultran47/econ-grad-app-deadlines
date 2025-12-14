@@ -40,6 +40,8 @@ soon as possible.
 
 ## Changelog
 
+14 December, 2025: Updated programme URLs and deadlines
+
 20 March, 2025: Increased list of schools to 221.
 
 **10 March, 2025: Increased list of schools to 201!**
@@ -104,7 +106,8 @@ structure for non-US programmes.
 Application deadlines listed are chosen because the corresponding programmes
 consider them to be the latest possible date eligible for PhD funding. **If there
 are multiply deadlines because of multiply intake dates, the table defaults by
-listing the deadline closest to the US-equivalent start date of fall semester**.
+listing the deadline closest to the US-equivalent start date of fall semester.
+Always double-check by using the provided programme URL**!S
 
 **I recommend looking into the programme website in order to confirm if the PhD
 starts in the fall or spring semester since this information is not included in
