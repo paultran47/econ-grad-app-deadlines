@@ -40,6 +40,8 @@ soon as possible.
 
 ## Changelog
 
+**15 December, 2025: Increased list of schools to 251!**
+
 14 December, 2025: Updated programme URLs and deadlines
 
 20 March, 2025: Increased list of schools to 221.
@@ -52,11 +54,11 @@ soon as possible.
 
 02 December, 2024: Increased list of schools to 157.
 
-20 October, 2024: Increased list of schools to 150.
+**20 October, 2024: Increased list of schools to 150!**
 
 07 October, 2024: Increased list of schools to 125.
 
-06 October, 2024: Increased list of schools to 100! Added FAQ information about
+**06 October, 2024: Increased list of schools to 100!** Added FAQ information about
 the meaning behind the deadlines displayed in the list and an important reminder
 for readers to check individual PhD programme websites for details about semester
 start dates, potentially new application deadlines, etc.
