@@ -101,7 +101,8 @@ I will explicitly state as such, in parentheses, under the school name.
 Programmes with no information stated can be assumed to provide a Master's + PhD
 structure (regardless of location). At the moment, I am following this structure
 for US programmes. To be better safe than sorry, I am specifying Master's + PhD
-structure for non-US programmes.
+structure for non-US programmes. The specific type(s) of master's degree (e.g., MPhil)
+will be provided if mentioned by the programme.
 
 Application deadlines listed are chosen because the corresponding programmes
 consider them to be the latest possible date eligible for PhD funding. **If there
