@@ -145,7 +145,7 @@ front and centre for myself at the time and for all future applicants.
 
 ### Are you going to be adding more schools?
 
-Slowly. Whilst this is a personal project, I have full intention of making this
+Slowly. While this is a personal project, I have full intention of making this
 website contains the deadlines of hundreds of PhD programmes eventually.
 
 You can check the <a href="#changelog">changelog</a> on the GitHub repo page.
