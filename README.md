@@ -122,8 +122,10 @@ your life doing these programmes**.
 
 ### Who are you?
 
-I am a PhD Economist at the US Department of the Treasury (incoming). My fields
-of interest are macroeconomics and monetary economics. I use text analysis and
+I am an Economist at the US Department of the Treasury (incoming). I received my
+PhD in Economics from the University of Texas at Austin (2026) and a BA in
+Mathematics and Mathematical Economics from Pomona College (2017). My fields of
+interest are macroeconomics and monetary economics. I use text analysis and
 natural language processing to study how policy communication impacts economic
 outcomes and expectations. I'm also a USAPL powerlifter (519kg total club).
 If you want to find out more about me and my research, please visit my
