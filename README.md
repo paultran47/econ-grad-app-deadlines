@@ -122,7 +122,7 @@ your life doing these programmes**.
 
 ### Who are you?
 
-I am an Economist at the US Department of the Treasury (incoming). I received my
+I am an Economist at the US Department of the Treasury (incoming). I received a
 PhD in Economics from the University of Texas at Austin (2026) and a BA in
 Mathematics and Mathematical Economics from Pomona College (2017). My fields of
 interest are macroeconomics and monetary economics. I use text analysis and
